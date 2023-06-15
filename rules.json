@@ -1,0 +1,4 @@
+[
+  {"nama" : "Benar", "isi" : "desc", "gambar" : "incorrent.jpg"},
+  {"nama" : "Salah", "isi" : "desc", "gambar" : "correct.jpeg"}
+]
