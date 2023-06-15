@@ -1,4 +1,4 @@
 [
-  {"nama" : "Benar", "isi" : "desc", "gambar" : "correct.jpg"},
-  {"nama" : "Salah", "isi" : "desc", "gambar" : "incorrect.jpeg"}
+  {"nama" : "Benar", "isi" : "Berikan pertanyaan yang menarik kepada temanmu", "gambar" : "correct.png"},
+  {"nama" : "Salah", "isi" : "Dilarang memberikan pertanyaan yang mengandung unsur negatif", "gambar" : "incorrect.png"}
 ]
